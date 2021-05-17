@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Space Mono", sans-serif;
+}
+
+.container{
+    padding: 20px 24px;
+}
+
+.logo{
+    font-family: "Inconsolata", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25.18px;
+    letter-spacing: -.11em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.feature-image img{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding: 44px 24px 60px 24px;
+}
+
+.main-info .main-heading{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71.09px;
+    letter-spacing: -3.5px;
+    color: #333333;
+}
+
+.main-info p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.66px;
+    color: #4F4F4F;
+    padding: 30px 0 66px 0;
+}
+
+.main-info .btn{
+    background: #333333;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 24px 43px;
+    border-radius: 50px;
+}
+
+footer{
+    padding: 114px 22px 10px 22px;
+    font-family: "Montserrat", sans-serif;
+    color: #BDBDBD;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.sign a{
+    text-decoration: none;
+    color: #BDBDBD;
+    font-weight: 700;
+}
