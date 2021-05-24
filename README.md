@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1Oip0xyneK-LUam36fs18j484RtrFPV2q/view?usp=sharing)
+![screenshot](https://drive.google.com/uc?id=1Oip0xyneK-LUam36fs18j484RtrFPV2q)
 
 
 - You can see the [demo here.](https://not-found-404-page.netlify.app/)
